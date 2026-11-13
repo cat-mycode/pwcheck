@@ -1,6 +1,6 @@
 # pwcheck
 
-[![CI](https://github.com/YOUR-USERNAME/pwcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/pwcheck/actions/workflows/ci.yml)
+[![CI](https://github.com/cat-mycode/pwcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/cat-mycode/pwcheck/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -15,7 +15,7 @@ A small, dependency-free command-line tool that tells you how strong a password 
 ## Install
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/pwcheck.git
+git clone https://github.com/cat-mycode/pwcheck.git
 cd pwcheck
 pip install .
 ```

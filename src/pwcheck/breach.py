@@ -14,7 +14,7 @@ from collections.abc import Callable
 
 API_URL = "https://api.pwnedpasswords.com/range/"
 DEFAULT_TIMEOUT = 10.0
-USER_AGENT = "pwcheck (https://github.com/YOUR-USERNAME/pwcheck)"
+USER_AGENT = "pwcheck (https://github.com/cat-mycode/pwcheck)"
 PREFIX_LENGTH = 5
 
 

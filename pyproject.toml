@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
 license-files = ["LICENSE"]
-authors = [{ name = "Your Name" }]
+authors = [{ name = "N30n" }]
 keywords = ["security", "cybersecurity", "password", "hibp", "k-anonymity", "cli"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -29,8 +29,8 @@ dev = ["pytest>=8", "ruff>=0.6"]
 pwcheck = "pwcheck.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR-USERNAME/pwcheck"
-Issues = "https://github.com/YOUR-USERNAME/pwcheck/issues"
+Homepage = "https://github.com/cat-mycode/pwcheck"
+Issues = "https://github.com/cat-mycode/pwcheck/issues"
 
 [tool.setuptools.dynamic]
 version = { attr = "pwcheck.__version__" }
